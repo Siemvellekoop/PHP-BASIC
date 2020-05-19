@@ -4,11 +4,12 @@
 
 <?php
 
-$myMovies = ["Spiderman", "Batman", "The Joker"];
+$myDogNames[0] =  'Boef';
+$myDogNames[1] =  'Beer';
+$myDogNames[2] =  'Boris';
 
-echo '<ul>';
-echo '<li>' . implode( '</li><li>', $myMovies) . '</li>';
-echo '</ul>';
+echo $myDogNames;
+
 
 ?>
 </body>

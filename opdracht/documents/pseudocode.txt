@@ -1,1 +1,9 @@
-
+Op de homepagina kan ik de datatype van een variabele ophalen via "gettype" of "vardump"
+Op producten.php moet je de prijs en de producten kunnen laten zien via twee arrays
+Ik moet een totaal uitrekenen via arethmatics
+Met een switch kan ik de korting uitrekenen voor de producten
+- 19 is 0.19 eur korting
+- 18 is 0.18 eur korting
+- 17 is 0.17 eur korting
+- 16 is 0.16 eur korting
+- onder 16 is 1 eur korting
